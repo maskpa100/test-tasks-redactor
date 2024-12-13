@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-tasks-redactor/static/css/main.f25cdb3a.css",
+    "main.js": "/test-tasks-redactor/static/js/main.01b6aa30.js",
+    "static/js/453.ed3810f9.chunk.js": "/test-tasks-redactor/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/test-tasks-redactor/index.html",
+    "main.f25cdb3a.css.map": "/test-tasks-redactor/static/css/main.f25cdb3a.css.map",
+    "main.01b6aa30.js.map": "/test-tasks-redactor/static/js/main.01b6aa30.js.map",
+    "453.ed3810f9.chunk.js.map": "/test-tasks-redactor/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f25cdb3a.css",
+    "static/js/main.01b6aa30.js"
+  ]
+}
