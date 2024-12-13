@@ -25,7 +25,7 @@
 
 1. Клонируйте репозиторий:
 
-### `git clone ссылка `
+### `git clone https://github.com/maskpa100/test-tasks-redactor.git `
 
 2. Перейдите в каталог проекта:
 
